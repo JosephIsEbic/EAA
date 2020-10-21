@@ -1,0 +1,7 @@
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\bin\Debug\Jason's task.exe.config
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\bin\Debug\Jason's task.exe
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\bin\Debug\Jason's task.pdb
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\obj\Debug\Jason's task.csprojAssemblyReference.cache
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\obj\Debug\Jason's task.csproj.CoreCompileInputs.cache
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\obj\Debug\Jason's task.exe
+P:\Digital\VS\Joseph Jacobs\Jason's task\Jason's task\obj\Debug\Jason's task.pdb
